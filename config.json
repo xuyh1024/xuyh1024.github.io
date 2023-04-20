@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "xuyihao",
+  "name": "xuyihao",
+  "ascii": "liveterm",
+  "social": {
+    "github": "https://github.com/xuyh1024",
+    "linkedin": "linkedin"
+  },
+  "email": "xuyihao.cn@gmail.com",
+  "ps1_hostname": "xuyihao",
+  "ps1_username": "visitor",
+  "repo": "",
+  "resume_url": "",
+  "donate_urls": {
+    "paypal": "",
+    "patreon": ""
+  },
+  "colors": {
+    "light": {
+      "background": "#F8F8F2",
+      "foreground": "#272822",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
+    },
+    "dark": {
+      "background": "#272822",
+      "foreground": "#F8F8F2",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
+    }
+  }
+}
